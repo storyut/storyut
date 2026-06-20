@@ -2,6 +2,7 @@
 You can call me story. I'm a curious game/frontend developer, a designer, who likes to explore ideas across multiple fields. I like turning random thoughts, playful concepts, and even silly ideas into real projects that people can see, use, and experience!
 
 你可以叫我 Story，是一名充满好奇心的游戏 / 前端开发者，也是一名设计师，喜欢探索不同领域的创意与想法。我喜欢把脑海中随机冒出的想法、有趣的概念，甚至是一些看起来很“傻”的点子，变成别人可以看见、使用和体验的真实项目！ ˖ ݁♬⋆.˚𝄞
+<h3 align="center">Languages</h3> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,cpp,wasm,python&perline=8" alt="Languages" /> </a> </p> <h3 align="center">Tools & Frameworks</h3> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,dotnet,unity,unreal,vscode,ae,ps,ai,pr&perline=8" alt="Tools and Frameworks" /> </a> </p>
 
 ```
                              :3 
